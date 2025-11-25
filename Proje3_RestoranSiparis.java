@@ -1,3 +1,7 @@
+ADI-SOYADI: Sarya Su TOĞYILDIZ
+SINIFI: 1/B
+NUMARASI: 250542024
+
 import java.util.Scanner;
 
 public class RestoranSiparis {
@@ -115,3 +119,4 @@ public class RestoranSiparis {
         System.out.println("Bahsis önerisi (%10): " + String.format("%.2f", bahsis) + " TL");
     }
 }
+
