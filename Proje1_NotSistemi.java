@@ -1,3 +1,8 @@
+ADI-SOYADI: Sarya Su TOĞYILDIZ
+SINIFI: 1/B
+NUMARASI: 250542024
+
+
 import java.util.Scanner;
 
 public class NotSistemi {
@@ -84,3 +89,4 @@ public class NotSistemi {
 
     }
 }
+
