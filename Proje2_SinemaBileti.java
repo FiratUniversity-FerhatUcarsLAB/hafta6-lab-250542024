@@ -1,3 +1,7 @@
+ADI-SOYADI: Sarya Su TOĞYILDIZ
+SINIFI: 1/B
+NUMARASI: 250542024
+    
 public class SinemaBileti {
 
     public static boolean isWeekend(int gun) {
@@ -78,3 +82,4 @@ public class SinemaBileti {
         System.out.println(generateTicketInfo(gun, saat, yas, meslek, filmTuru));
     }
 }
+
